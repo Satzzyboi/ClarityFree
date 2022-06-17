@@ -1,5 +1,9 @@
 Clarity Free
 
+Clarity free wont be released until like 3 days or sum so please be paitient :)
+
+if this repo gets 10 stars in 2 days ill give out 3 clarity premium keys!
+
 ![image](https://user-images.githubusercontent.com/99520006/174205219-0592e6f5-94b1-47a4-ab93-12e481008ddd.png)
 
 This is basically clarity except worse and open src so yall can see we are legit :)
