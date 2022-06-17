@@ -1,6 +1,8 @@
 Clarity Free
 
-This is basically clarity except worse and open src so yall can see we are legit :)![image](https://user-images.githubusercontent.com/99520006/174205219-0592e6f5-94b1-47a4-ab93-12e481008ddd.png)
+[image](https://user-images.githubusercontent.com/99520006/174205219-0592e6f5-94b1-47a4-ab93-12e481008ddd.png)
+
+This is basically clarity except worse and open src so yall can see we are legit :)!
 
 
 Here is everything included in clarity free:
